@@ -1,4 +1,67 @@
-## Hi there 👋
+# 👨‍💻 Leandro Souza
+
+**`Cursando técnico em Desenvolvimento de Sistemas`**
+
+Sou estudante de Desenvolvimento de Sistemas no Senac, tenho 20 anos e estou iniciando minha jornada no mundo da tecnologia. Gosto de programar, aprender coisas novas e encontrar soluções criativas para os desafios propostos em aula.
+
+ <p align="left">
+         <img alt="Seguidores" title="Me siga no Github" src="https://custom-icon-badges.demolab.com/github/followers/Leandro-SZ?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"/></a>
+      <a href="https://github.com/Leandro-SZ?tab=repositories&sort=stargazers">
+         <img alt="total de estrelas" title="Total de estrelas no GitHub" src="https://custom-icon-badges.demolab.com/github/stars/Leandro-SZ?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=Estrelas"/></a>
+   </p>
+
+---
+### 🚀 Sobre mim
+
+* 🎓 Estudante do curso técnico em Desenvolvimento de Sistemas
+* 🧠 Aprendo rápido, sou resiliente e dedicado
+* 🐍 Atualmente estudando Python
+* ☕ Em breve começarei a aprender Java
+* 🖥️ Interessado em lógica, desenvolvimento e construção de soluções simples e funcionais
+* 🎯 Penso em seguir futuramente para a graduação em Sistemas de Informação
+
+---
+
+### 🐱‍💻 Linguagens e Tecnologias
+
+<img
+    align="left"
+    alt="Python"
+    title="Python"
+    width="30px"
+    style="padding-right: 10px;"
+    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"
+    />
+
+<img
+    align="left"
+    alt="Java"
+    title="Java"
+    width="30px"
+    style="padding-right: 10px;"
+    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"
+/>
+
+<br/>
+<br/>
+
+### 📊 Estatísticas
+
+<img
+    align="left"
+    alt="GitHub Stats"
+    height="200"
+    style="padding-right: 10px;"
+    src="https://github-readme-stats.vercel.app/api?username=Leandro-SZ&show_icons=true&theme=dark&include_all_commits=true&locale=pt-br"
+/>
+
+<img
+    align="left"
+    alt="GitHub Stats"
+    height="200"
+    style="padding-right: 10px;"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Leandro-SZ&theme=dark&layout=compact&custom_title=Tecnologias&langs_count=9"
+/>
 
 <!--
 **Leandro-SZ/Leandro-SZ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
