@@ -19,7 +19,7 @@ Gosto de programar, aprender coisas novas e busco unir a base teórica acadêmic
 * 💻 Estudante do curso técnico em Desenvolvimento de Sistemas
 * 🧠 Aprendo rápido, sou resiliente e dedicado
 * 🖥️ Interessado em lógica, desenvolvimento e construção de soluções simples e funcionais
-* 🎯 Objetivo Atual: Conquistar a primeira oportunidade como Desenvolvedor(a) Full Stack / Front-end.
+* 🎯 Objetivo Atual: Conquistar a primeira oportunidade como Desenvolvedor(a) Full Stack / Front-end / Back-end.
 
 ---
 
