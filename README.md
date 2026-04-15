@@ -47,8 +47,8 @@ Gosto de programar, aprender coisas novas e busco unir a base teórica acadêmic
 
 <img
     align="left"
-    alt="Java"
-    title="Java"
+    alt="C"
+    title="C"
     width="30px"
     style="padding-right: 10px;"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" />
@@ -57,8 +57,8 @@ Gosto de programar, aprender coisas novas e busco unir a base teórica acadêmic
     
  <img
      align="left"
-     alt="Java"
-     title="Java"
+     alt="CSS"
+     title="CSS"
      width="30px"
      style="padding-right: 10px;"
      src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
