@@ -18,8 +18,6 @@ Gosto de programar, aprender coisas novas e busco unir a base teórica acadêmic
 * 🏛️ Estudante de Graduação em Sistemas de Informação
 * 💻 Estudante do curso técnico em Desenvolvimento de Sistemas
 * 🧠 Aprendo rápido, sou resiliente e dedicado
-* 🐍 Atualmente estudando Python
-* ☕ Em breve começarei a aprender Java
 * 🖥️ Interessado em lógica, desenvolvimento e construção de soluções simples e funcionais
 * 🎯 Objetivo Atual: Conquistar a primeira oportunidade como Desenvolvedor(a) Full Stack / Front-end.
 
